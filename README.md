@@ -1,9 +1,6 @@
 <div align=center>
-  
-### Introduction 🙌
+
 안녕하세요! 컴퓨터공학과 전공 이홍연입니다 😊
-
-
 
 </div>
 <div align=center>
