@@ -15,9 +15,9 @@
 
 - 2025
 
-      1학기 프랑스 EPITA - École pour l'informatique et les techniques avancées 교환학생
+      1학기 프랑스 EPITA - École pour l'informatique et les techniques avancées 교환학생 (2025.02.03 ~ 2025.08.07)
     
-      2학기 영국 ULAN - University of Lancashire 교환학생 
+      2학기 영국 ULAN - University of Lancashire 교환학생 (2025.09.17 ~ 2026.01.09)
 
 - 2024
   
@@ -27,7 +27,7 @@
       
       알튜비튜 7기 수강 (2024.08.13 ~ 2024.11.29)
 
-      ECC 49기 FW 프론트엔드팀 (2024.09 ~ )
+      ECC 49기 FW 프론트엔드팀 (2024.09 ~ 2024.12.31)
   
 - 2023
   
