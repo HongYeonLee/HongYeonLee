@@ -13,6 +13,10 @@
 
 </div>
 
+- 2025
+      1학기 프랑스 EPITA - École pour l'informatique et les techniques avancées 교환학생
+    
+      2학기 영국 ULAN - University of Lancashire 교환학생 
 
 - 2024
   
@@ -30,6 +34,5 @@
 
 <div align=center>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HongYeonLee)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
