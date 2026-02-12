@@ -1,6 +1,6 @@
 <div align=center>
 
-안녕하세요! 컴퓨터공학과 전공 이홍연입니다 😊
+안녕하세요 이화여자대학교 컴퓨터공학과 전공 이홍연입니다 😊
 
 </div>
 <div align=center>
@@ -14,6 +14,7 @@
 </div>
 
 - 2025
+
       1학기 프랑스 EPITA - École pour l'informatique et les techniques avancées 교환학생
     
       2학기 영국 ULAN - University of Lancashire 교환학생 
