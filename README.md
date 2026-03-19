@@ -8,7 +8,7 @@
   
       UMC 10기 Web 팀 (2026.03.08 ~ )
 
-      ECC 49기 SS 백엔드 팀 (2026.03.11 ~ )
+      ECC 51기 SS 백엔드 팀 (2026.03.11 ~ )
 
       AWS Cloud Clubs AT EWHA (ACC) (2026.03.17 ~ )
       
