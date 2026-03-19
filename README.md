@@ -3,16 +3,15 @@
 안녕하세요 이화여자대학교 컴퓨터공학과 전공 이홍연입니다 😊
 
 </div>
-<div align=center>
+
+- 2026
   
-### Languages & Platforms 🔧
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+      UMC 10기 Web 팀 (2026.03.08 ~ )
 
-</div>
+      ECC 49기 SS 백엔드 팀 (2026.03.11 ~ )
 
+      AWS Cloud Clubs AT EWHA (ACC) (2026.03.17 ~ )
+      
 - 2025
 
       1학기 프랑스 EPITA - École pour l'informatique et les techniques avancées 교환학생 (2025.02.03 ~ 2025.08.07)
@@ -27,13 +26,25 @@
       
       알튜비튜 7기 수강 (2024.08.13 ~ 2024.11.29)
 
-      ECC 49기 FW 프론트엔드팀 (2024.09 ~ 2025.01.25)
+      ECC 49기 FW Frontend팀 (2024.09 ~ 2025.01.25)
   
 - 2023
   
       게임개발동아리 KING 13기 (2023.03 ~ )
-
-<div align=center>
   
-</div>
+  ### ⚙Stack
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![html5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
+  ![css](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white&color=%23663399)
+  ![typescript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white&color=%233178C6)
+  ![react](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB)
+  ![flask](https://img.shields.io/badge/flask-%233BABC3?style=for-the-badge&logo=flask&logoColor=white&color=%233BABC3)
+  ![firebase](https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white&color=%23DD2C00)
+
+
+
+
 
