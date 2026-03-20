@@ -46,6 +46,8 @@
   ![react](https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=white&color=%2361DAFB)
   ![flask](https://img.shields.io/badge/flask-%233BABC3?style=for-the-badge&logo=flask&logoColor=white&color=%233BABC3)
   ![firebase](https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white&color=%23DD2C00)
+  ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
+
 
 
 
